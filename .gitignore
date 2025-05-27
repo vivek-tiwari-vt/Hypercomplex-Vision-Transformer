@@ -1,0 +1,28 @@
+# Data directories
+.data/
+data/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+logs/
+
+# Project specific directories
+paper/
+proj1/
+checkpoints/
+HyperNets/
+imp/
+
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment directories
+.env
+.venv
+env/
+venv/
+ENV/
